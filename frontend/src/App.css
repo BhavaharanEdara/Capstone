@@ -1,0 +1,60 @@
+.w-screen{
+  width: screen;
+}
+.bg-orange{
+  background-color: #ff6f3c;
+}
+.bg-btn{
+  background-color: #ff9a3c;
+}
+.banner-heading{
+  color: #ff9a3c;
+}
+
+.banner-text{
+  font-size: 18px;
+}
+
+.banner-btn{
+  background-color: #ff9a3c;
+  border-radius: 5px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: white;
+  border: 2px solid white;
+}
+
+.banner-btn:hover{
+  color: black;
+  background-color: white;
+  border: 2px solid rgb(127, 127, 127);
+}
+.bg-color{
+  background-color: rgb(247, 228, 211);
+}
+.h-screen{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-sm{
+  font-size: 12px;
+}
+
+.side-icon{
+  color: rgb(86, 82, 82);
+}
+
+.height-screen{
+  min-height: 83vh;
+}
+
+.no-underline{
+  text-decoration: none;
+}
+
+.text-xs{
+  font-size: 10px;
+}
